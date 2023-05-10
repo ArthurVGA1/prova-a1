@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class prova {
+//     ME SEGUE PROFESSOR!!!
     
     public static void main(String[]args) {
         Scanner sc = new Scanner(System.in);
